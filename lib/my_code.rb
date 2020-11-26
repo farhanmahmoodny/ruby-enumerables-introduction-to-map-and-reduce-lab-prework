@@ -9,7 +9,7 @@ def map_to_negativize(array)
   newArr
 end
 
-def map_to_change(array)
+def map_to_no_change(array)
   
 end
 
