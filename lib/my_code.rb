@@ -1,6 +1,12 @@
 # My Code here....
 def map_to_negativize(array)
-  
+  newArr = []
+  c = 0
+  while array[c] do
+    newArr.push(array[c])
+    c += 1
+  end
+  newArr
 end
 
 def map_to_change(array)
