@@ -43,7 +43,7 @@ def reduce_to_total(array, start=0)
     end
 
   end
-  array
+  total
 end
 
 def reduce_to_all_true(array)
