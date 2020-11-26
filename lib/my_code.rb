@@ -32,3 +32,4 @@ def map_to_square(array)
   end
   newArr
 end
+
