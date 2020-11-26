@@ -1,16 +1,16 @@
 # My Code here....
-def map_to_negativize(source_array)
+def map_to_negativize(array)
   
 end
 
-def map_to_change(source_array)
+def map_to_change(array)
   
 end
 
-def map_to_double(source_array)
+def map_to_double(array)
   
 end
 
-def map_to_square(source_array)
+def map_to_square(array)
   
 end
